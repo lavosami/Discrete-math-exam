@@ -20,15 +20,19 @@ int main(int argc, char *argv[]) {
 	std::string s;
 	int n = 0;
 	char enter, mode, ans;
+	
 	while (!fin.eof()) {
 		getline(fin, s);
 		str.push_back(s);
 		n++;
 	}
+	
 	while (!pin.eof()) {
 		getline(pin, s);
 		pleasurs.push_back(s);
 	}
+	
+	pin.close();
 	fin.close();
 	
 	std::cout << "Введите способ выбора вопросов (l - вопросы подряд до первой ошибки, r - случайный вопрос): ";
