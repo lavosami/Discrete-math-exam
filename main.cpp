@@ -46,6 +46,7 @@ int main(int argc, char *argv[]) {
 			while (true) {
 				i = randomaizer(n);
 				std::cin.get();
+				std::cout << "хуй";
 				std::cout << str[i];
 				std::cin.get();
 				i++;
