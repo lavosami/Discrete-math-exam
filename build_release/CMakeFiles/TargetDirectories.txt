@@ -1,0 +1,3 @@
+/Users/lavosami/Downloads/Code/GitHub/Discrete-math-exam/build_release/CMakeFiles/main.dir
+/Users/lavosami/Downloads/Code/GitHub/Discrete-math-exam/build_release/CMakeFiles/edit_cache.dir
+/Users/lavosami/Downloads/Code/GitHub/Discrete-math-exam/build_release/CMakeFiles/rebuild_cache.dir
